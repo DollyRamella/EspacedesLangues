@@ -215,7 +215,7 @@
  </layer>
  <layer id="4" name="exit" width="100" height="100">
   <properties>
-   <property name="exitUrl" value="villejean.json"/>
+   <property name="exitUrl" value="villejean"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -427,7 +427,7 @@
  <objectgroup color="#ffaaff" id="7" name="sites" tintcolor="#ff55ff" offsetx="-46" offsety="30">
   <object id="1" name="opera" class="area" x="1466.79" y="2125.62" width="136" height="276" rotation="0.325839">
    <properties>
-    <property name="openWebsite" value="https://www.thinglink.com/video/1248280821228371969"/>
+    <property name="openWebsite" value="https://www.thinglink.com/mediacard/1391859787464966146"/>
    </properties>
   </object>
  </objectgroup>
