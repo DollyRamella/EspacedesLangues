@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "g36771.tsx": {
+            "scaleInDock": 0.1621,
+            "scaleInEditor": 1
+        },
+        "republique.tmx": {
+            "scale": 0.13834375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1601.084255703637,
+                "y": 1601.0842557036367
+            }
+        },
+        "tilesets/republique.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/roads.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/Cartes/v2/tilesets",
+    "openFiles": [
+        "g36771.tsx",
+        "republique.tmx"
+    ],
+    "project": "sans titre.tiled-project",
+    "recentFiles": [
+        "republique.tmx",
+        "g36771.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
