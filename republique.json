@@ -333,7 +333,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"villejean.json"
+                 "value":"villejean"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -467,7 +467,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.thinglink.com\/video\/1248280821228371969"
+                         "value":"https:\/\/www.thinglink.com\/video\/1386715160118296578"
                         }],
                  "rotation":0.325839298625296,
                  "visible":true,
