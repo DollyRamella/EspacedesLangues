@@ -430,12 +430,12 @@
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665132852397735937"/>
    </properties>
   </object>
-  <object id="2" x="2744" y="1888" width="188" height="218">
+  <object id="2" name="mairie" class="area" x="2744" y="1888" width="188" height="218">
    <properties>
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1391859787464966146"/>
    </properties>
   </object>
-  <object id="4" x="1854" y="2158" width="536" height="242">
+  <object id="4" name="placemairie" class="area" x="1854" y="2158" width="536" height="242">
    <properties>
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665134036793688065"/>
    </properties>

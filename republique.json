@@ -447,7 +447,7 @@
          "height":100,
          "id":1,
          "name":"Calque de Tuiles 1",
-         "opacity":0.3,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -478,10 +478,10 @@
                  "y":2125.61551978534
                 }, 
                 {
-                 "class":"",
+                 "class":"area",
                  "height":218,
                  "id":2,
-                 "name":"",
+                 "name":"mairie",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -495,10 +495,10 @@
                  "y":1888
                 }, 
                 {
-                 "class":"",
+                 "class":"area",
                  "height":242,
                  "id":4,
-                 "name":"",
+                 "name":"placemairie",
                  "properties":[
                         {
                          "name":"openWebsite",
