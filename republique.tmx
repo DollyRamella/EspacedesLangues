@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="2">
+<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="6">
  <editorsettings>
   <export target="republique.json" format="json"/>
  </editorsettings>
@@ -427,7 +427,17 @@
  <objectgroup color="#ffaaff" id="7" name="sites" tintcolor="#ff55ff" offsetx="-46" offsety="30">
   <object id="1" name="opera" class="area" x="1466.79" y="2125.62" width="136" height="276" rotation="0.325839">
    <properties>
-    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1386715160118296578"/>
+    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665132852397735937"/>
+   </properties>
+  </object>
+  <object id="2" x="2744" y="1888" width="188" height="218">
+   <properties>
+    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1391859787464966146"/>
+   </properties>
+  </object>
+  <object id="4" x="1854" y="2158" width="536" height="242">
+   <properties>
+    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665134036793688065"/>
    </properties>
   </object>
  </objectgroup>

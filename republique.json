@@ -467,13 +467,47 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.thinglink.com\/view\/scene\/1386715160118296578"
+                         "value":"https:\/\/www.thinglink.com\/view\/scene\/1665132852397735937"
                         }],
                  "rotation":0.325839298625296,
                  "visible":true,
                  "width":136,
                  "x":1466.78589704744,
                  "y":2125.61551978534
+                }, 
+                {
+                 "class":"",
+                 "height":218,
+                 "id":2,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.thinglink.com\/view\/scene\/1391859787464966146"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":188,
+                 "x":2744,
+                 "y":1888
+                }, 
+                {
+                 "class":"",
+                 "height":242,
+                 "id":4,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.thinglink.com\/view\/scene\/1665134036793688065"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":536,
+                 "x":1854,
+                 "y":2158
                 }],
          "offsetx":-46,
          "offsety":30,
@@ -496,7 +530,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":2,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.1",
