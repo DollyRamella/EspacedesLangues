@@ -427,7 +427,7 @@
  <objectgroup color="#ffaaff" id="7" name="sites" tintcolor="#ff55ff" offsetx="-46" offsety="30">
   <object id="1" name="opera" class="area" x="1466.79" y="2125.62" width="136" height="276" rotation="0.325839">
    <properties>
-    <property name="openWebsite" value="https://www.thinglink.com/video/1386715160118296578"/>
+    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1386715160118296578"/>
    </properties>
   </object>
  </objectgroup>
