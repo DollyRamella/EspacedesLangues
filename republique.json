@@ -501,9 +501,9 @@
                  "name":"placemairie",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/www.thinglink.com\/view\/scene\/1665134036793688065"
+                         "value":"https:\/\/www.thinglink.com\/view\/scene\/meetingRoomsalleDOLLY"
                         }],
                  "rotation":0,
                  "visible":true,

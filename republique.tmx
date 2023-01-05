@@ -437,7 +437,7 @@
   </object>
   <object id="4" name="placemairie" class="area" x="1854" y="2158" width="536" height="242">
    <properties>
-    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665134036793688065"/>
+    <property name="jitsiRoom" value="https://www.thinglink.com/view/scene/meetingRoomsalleDOLLY"/>
    </properties>
   </object>
  </objectgroup>
