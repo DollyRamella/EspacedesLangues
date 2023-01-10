@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "republique.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -16,8 +16,8 @@
             "scale": 0.13834375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1601.084255703637,
-                "y": 1601.0842557036367
+                "x": 2598.599503049469,
+                "y": 1648.068669527897
             }
         },
         "tilesets/republique.tsx": {
@@ -27,6 +27,7 @@
             "scaleInDock": 1
         }
     },
+    "frame.defaultDuration": 300,
     "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/Cartes/v2/tilesets",
     "openFiles": [
         "g36771.tsx",
@@ -34,8 +35,8 @@
     ],
     "project": "sans titre.tiled-project",
     "recentFiles": [
-        "republique.tmx",
-        "g36771.tsx"
+        "g36771.tsx",
+        "republique.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
