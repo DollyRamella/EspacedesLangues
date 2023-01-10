@@ -7,6 +7,7 @@
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
         "g36771.tsx": {
             "scaleInDock": 0.1621,
@@ -20,6 +21,21 @@
                 "y": 1648.068669527897
             }
         },
+        "tilesets/Orbz/bubbles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/anim.tsx": {
+            "dynamicWrapping": false
+        },
+        "tilesets/bubbles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/helena.tsx": {
+            "dynamicWrapping": true
+        },
         "tilesets/republique.tsx": {
             "scaleInDock": 1
         },
@@ -28,15 +44,18 @@
         }
     },
     "frame.defaultDuration": 300,
-    "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/Cartes/v2/tilesets",
+    "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/tilesets/helena",
     "openFiles": [
         "g36771.tsx",
         "republique.tmx"
     ],
     "project": "sans titre.tiled-project",
     "recentFiles": [
+        "tilesets/bubbles.tsx",
+        "tilesets/Orbz/bubbles.tsx",
         "g36771.tsx",
         "republique.tmx"
     ],
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
 }
