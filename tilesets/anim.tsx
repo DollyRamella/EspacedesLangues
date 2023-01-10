@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.1" name="anim" tilewidth="32" tileheight="32" tilecount="273" columns="13">
- <image source="WA_User_Interface.png" width="416" height="672"/>
- <tile id="19">
-  <animation>
-   <frame tileid="16" duration="300"/>
-   <frame tileid="20" duration="300"/>
-  </animation>
- </tile>
-</tileset>
+<tileset version="1.9" tiledversion="1.9.1" name="anim" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
