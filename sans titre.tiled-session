@@ -12,6 +12,14 @@
         "": {
             "scaleInDock": 1
         },
+        "VillejeanOK.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2064,
+                "y": 2641
+            }
+        },
         "g36771.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 0.1621,
@@ -34,11 +42,14 @@
             "scaleInDock": 1
         },
         "republique.tmx": {
+            "expandedObjectLayers": [
+                7
+            ],
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1832,
-                "y": 2217
+                "x": 1844,
+                "y": 1501
             }
         },
         "tilesets/Orbz/bubbles.tsx": {
@@ -70,7 +81,12 @@
         }
     },
     "frame.defaultDuration": 220,
+    "last.exportedFilePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues",
     "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/tilesets",
+    "map.height": 150,
+    "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 164,
     "openFiles": [
         "g36771.tsx",
         "republique.tmx"
