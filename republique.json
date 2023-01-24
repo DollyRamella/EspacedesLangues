@@ -590,13 +590,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":186.192169461739,
+                 "width":150.192751608115,
                  "x":1500.18485869155,
                  "y":2189.83153374828
                 }, 
                 {
                  "class":"area",
-                 "height":98,
+                 "height":154,
                  "id":2,
                  "name":"mairie",
                  "properties":[
@@ -607,13 +607,13 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":58,
+                 "width":110,
                  "x":2726,
                  "y":1958
                 }, 
                 {
                  "class":"area",
-                 "height":56,
+                 "height":106,
                  "id":4,
                  "name":"r\u00e9publique2",
                  "properties":[
@@ -624,13 +624,13 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":224,
-                 "x":2122,
-                 "y":1072
+                 "width":286,
+                 "x":2092,
+                 "y":1056
                 }, 
                 {
                  "class":"area",
-                 "height":56,
+                 "height":132,
                  "id":6,
                  "name":"r\u00e9publique",
                  "properties":[
@@ -641,9 +641,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":224,
+                 "width":282,
                  "x":1270,
-                 "y":1066
+                 "y":1028
                 }, 
                 {
                  "class":"area",
@@ -654,7 +654,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/view.genial.ly\/63c562ddb93e6a001274d489"
+                         "value":"https:\/\/h5p.org\/h5p\/embed\/1341880"
                         }],
                  "rotation":0.325839,
                  "visible":true,
@@ -676,8 +676,8 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":106.341359589933,
-                 "x":1049.94,
-                 "y":687.152
+                 "x":1025.94,
+                 "y":689.152
                 }, 
                 {
                  "class":"area",
@@ -715,7 +715,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":127.774477367568,
+                 "height":245.545091912023,
                  "id":11,
                  "name":"escapeGame",
                  "properties":[
@@ -726,9 +726,9 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":152.158597670286,
-                 "x":1745.926,
-                 "y":1919.091
+                 "width":388.052416588286,
+                 "x":1626.31587461002,
+                 "y":1834.53588880685
                 }, 
                 {
                  "class":"area",

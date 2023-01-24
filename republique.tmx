@@ -530,32 +530,32 @@
 </data>
  </layer>
  <objectgroup color="#ffaaff" id="7" name="sites" tintcolor="#ff55ff" offsetx="-46" offsety="30">
-  <object id="1" name="opera" class="area" x="1500.18" y="2189.83" width="186.192" height="169.785" rotation="0.325839">
+  <object id="1" name="opera" class="area" x="1500.18" y="2189.83" width="150.193" height="169.785" rotation="0.325839">
    <properties>
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1665132852397735937"/>
    </properties>
   </object>
-  <object id="2" name="mairie" class="area" x="2726" y="1958" width="58" height="98">
+  <object id="2" name="mairie" class="area" x="2726" y="1958" width="110" height="154">
    <properties>
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1674462954113728513"/>
    </properties>
   </object>
-  <object id="4" name="république2" class="area" x="2122" y="1072" width="224" height="56">
+  <object id="4" name="république2" class="area" x="2092" y="1056" width="286" height="106">
    <properties>
     <property name="jitsiRoom" value="/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
-  <object id="6" name="république" class="area" x="1270" y="1066" width="224" height="56">
+  <object id="6" name="république" class="area" x="1270" y="1028" width="282" height="132">
    <properties>
     <property name="jitsiRoom" value="/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
   <object id="7" name="h5P1" class="area" x="1183.93" y="691.091" width="100.353" height="129.467" rotation="0.325839">
    <properties>
-    <property name="openWebsite" value="https://view.genial.ly/63c562ddb93e6a001274d489"/>
+    <property name="openWebsite" value="https://h5p.org/h5p/embed/1341880"/>
    </properties>
   </object>
-  <object id="8" name="présentation nipro" class="area" x="1049.94" y="687.152" width="106.341" height="127.433" rotation="0.325839">
+  <object id="8" name="présentation nipro" class="area" x="1025.94" y="689.152" width="106.341" height="127.433" rotation="0.325839">
    <properties>
     <property name="openWebsite" value="https://view.genial.ly/63c562ddb93e6a001274d489"/>
    </properties>
@@ -570,7 +570,7 @@
     <property name="openWebsite" value="https://h5p.org/h5p/embed/1341914"/>
    </properties>
   </object>
-  <object id="11" name="escapeGame" class="area" x="1745.93" y="1919.09" width="152.159" height="127.774" rotation="0.325839">
+  <object id="11" name="escapeGame" class="area" x="1626.32" y="1834.54" width="388.052" height="245.545" rotation="0.325839">
    <properties>
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1357170246300991491"/>
    </properties>
