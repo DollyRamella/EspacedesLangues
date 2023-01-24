@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="9">
+<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="12">
  <editorsettings>
   <export target="republique.json" format="json"/>
  </editorsettings>
@@ -540,12 +540,12 @@
     <property name="openWebsite" value="https://www.thinglink.com/view/scene/1391859787464966146"/>
    </properties>
   </object>
-  <object id="4" name="placemairie" class="area" x="2122" y="1072" width="224" height="56">
+  <object id="4" name="république2" class="area" x="2122" y="1072" width="224" height="56">
    <properties>
     <property name="jitsiRoom" value="https://www.thinglink.com/view/scene/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
-  <object id="6" name="placemairie" class="area" x="1270" y="1066" width="224" height="56">
+  <object id="6" name="république" class="area" x="1270" y="1066" width="224" height="56">
    <properties>
     <property name="jitsiRoom" value="https://www.thinglink.com/view/scene/meetingRoomSalleDOLLY"/>
    </properties>
@@ -558,6 +558,21 @@
   <object id="8" name="présentation nipro" class="area" x="1069.94" y="707.152" width="60.126" height="89.6955" rotation="0.325839">
    <properties>
     <property name="openWebsite" value="https://view.genial.ly/63c562ddb93e6a001274d489"/>
+   </properties>
+  </object>
+  <object id="9" name="h5P2" class="area" x="1363.94" y="709.152" width="60.126" height="89.6955" rotation="0.325839">
+   <properties>
+    <property name="openWebsite" value="https://h5p.org/h5p/embed/1341904"/>
+   </properties>
+  </object>
+  <object id="10" name="h5P3" class="area" x="1523.94" y="709.152" width="60.126" height="89.6955" rotation="0.325839">
+   <properties>
+    <property name="openWebsite" value="https://h5p.org/h5p/embed/1341914"/>
+   </properties>
+  </object>
+  <object id="11" name="escapeGame" class="area" x="1745.93" y="1919.09" width="152.159" height="127.774" rotation="0.325839">
+   <properties>
+    <property name="openWebsite" value="https://www.thinglink.com/view/scene/1357170246300991491"/>
    </properties>
   </object>
  </objectgroup>
