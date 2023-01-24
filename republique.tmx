@@ -542,12 +542,12 @@
   </object>
   <object id="4" name="république2" class="area" x="2122" y="1072" width="224" height="56">
    <properties>
-    <property name="jitsiRoom" value="https://www.thinglink.com/view/scene/meetingRoomSalleDOLLY"/>
+    <property name="jitsiRoom" value="/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
   <object id="6" name="république" class="area" x="1270" y="1066" width="224" height="56">
    <properties>
-    <property name="jitsiRoom" value="https://www.thinglink.com/view/scene/meetingRoomSalleDOLLY"/>
+    <property name="jitsiRoom" value="/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
   <object id="7" name="h5P1" class="area" x="1195.93" y="707.091" width="60.126" height="89.6955" rotation="0.325839">
