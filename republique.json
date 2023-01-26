@@ -579,7 +579,7 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":169.78517206225,
+                 "height":169.785,
                  "id":1,
                  "name":"opera",
                  "properties":[
@@ -590,9 +590,9 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":150.192751608115,
-                 "x":1500.18485869155,
-                 "y":2189.83153374828
+                 "width":150.193,
+                 "x":1500.18,
+                 "y":2189.83
                 }, 
                 {
                  "class":"area",
@@ -647,7 +647,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":129.467375861603,
+                 "height":129.467,
                  "id":7,
                  "name":"h5P1",
                  "properties":[
@@ -658,13 +658,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":100.352830479784,
+                 "width":100.353,
                  "x":1183.93,
                  "y":691.091
                 }, 
                 {
                  "class":"area",
-                 "height":127.433286606705,
+                 "height":127.433,
                  "id":8,
                  "name":"pr\u00e9sentation nipro",
                  "properties":[
@@ -675,13 +675,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":106.341359589933,
+                 "width":106.341,
                  "x":1025.94,
                  "y":689.152
                 }, 
                 {
                  "class":"area",
-                 "height":133.455937313218,
+                 "height":133.456,
                  "id":9,
                  "name":"h5P2",
                  "properties":[
@@ -692,13 +692,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":102.375545869227,
-                 "x":1339.937,
-                 "y":685.15225
+                 "width":102.376,
+                 "x":1339.94,
+                 "y":685.152
                 }, 
                 {
                  "class":"area",
-                 "height":123.467472885999,
+                 "height":123.467,
                  "id":10,
                  "name":"h5P3",
                  "properties":[
@@ -709,13 +709,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":100.31870888342,
-                 "x":1503.937,
-                 "y":693.15225
+                 "width":100.319,
+                 "x":1503.94,
+                 "y":693.152
                 }, 
                 {
                  "class":"area",
-                 "height":223.545447668141,
+                 "height":223.545,
                  "id":11,
                  "name":"escapeGame",
                  "properties":[
@@ -726,9 +726,9 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":220.021011675011,
-                 "x":1710.24491585972,
-                 "y":1857.0131953367
+                 "width":220.021,
+                 "x":1710.24,
+                 "y":1857.01
                 }, 
                 {
                  "class":"area",
@@ -744,12 +744,12 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":100.319,
-                 "x":1723.8405,
-                 "y":708.2665
+                 "x":1723.84,
+                 "y":708.266
                 }, 
                 {
                  "class":"area",
-                 "height":143.557667508983,
+                 "height":143.558,
                  "id":13,
                  "name":"NIPRO",
                  "properties":[
@@ -760,13 +760,13 @@
                         }],
                  "rotation":0.325839,
                  "visible":true,
-                 "width":116.205002613732,
-                 "x":1979.95475427457,
-                 "y":684.176157371831
+                 "width":116.205,
+                 "x":1979.95,
+                 "y":684.176
                 }, 
                 {
                  "class":"area",
-                 "height":93.547434671179,
+                 "height":93.5474,
                  "id":14,
                  "name":"Point info",
                  "properties":[
@@ -778,8 +778,8 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":116.205,
-                 "x":2655.61309327932,
-                 "y":1034.23075662134
+                 "x":2655.61,
+                 "y":1034.23
                 }, 
                 {
                  "class":"area",
@@ -795,7 +795,7 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":116.205,
-                 "x":2209.8975,
+                 "x":2209.9,
                  "y":672.221
                 }, 
                 {
@@ -812,12 +812,12 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":116.205,
-                 "x":2401.8975,
+                 "x":2401.9,
                  "y":672.221
                 }, 
                 {
                  "class":"area",
-                 "height":109.558549804911,
+                 "height":109.559,
                  "id":17,
                  "name":"M1",
                  "properties":[
@@ -829,12 +829,12 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":116.205,
-                 "x":833.704147413977,
-                 "y":1006.21990039907
+                 "x":833.704,
+                 "y":1006.22
                 }, 
                 {
                  "class":"area",
-                 "height":279.510159106816,
+                 "height":279.51,
                  "id":18,
                  "name":"ALUMNI",
                  "properties":[
@@ -846,8 +846,25 @@
                  "rotation":0.325839,
                  "visible":true,
                  "width":106.341,
-                 "x":582.8295,
-                 "y":646.2835
+                 "x":582.83,
+                 "y":646.284
+                }, 
+                {
+                 "class":"area",
+                 "height":182,
+                 "id":19,
+                 "name":"Placedela Mairie",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"\/meetingRoomSalleDOLLY"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":426,
+                 "x":1889,
+                 "y":2185
                 }],
          "offsetx":-46,
          "offsety":30,
@@ -870,7 +887,7 @@
          "y":0
         }],
  "nextlayerid":9,
- "nextobjectid":19,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.1",

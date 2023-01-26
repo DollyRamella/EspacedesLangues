@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="19">
+<map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="20">
  <editorsettings>
   <export target="republique.json" format="json"/>
  </editorsettings>
@@ -608,6 +608,11 @@
   <object id="18" name="ALUMNI" class="area" x="582.83" y="646.284" width="106.341" height="279.51" rotation="0.325839">
    <properties>
     <property name="openWebsite" value="https://view.genial.ly/63c6f682dc5c790013644429"/>
+   </properties>
+  </object>
+  <object id="19" name="Placedela Mairie" class="area" x="1889" y="2185" width="426" height="182">
+   <properties>
+    <property name="jitsiRoom" value="/meetingRoomSalleDOLLY"/>
    </properties>
   </object>
  </objectgroup>
