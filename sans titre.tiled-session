@@ -46,14 +46,18 @@
                 7
             ],
             "scale": 0.5,
-            "selectedLayer": 5,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 1939,
-                "y": 1039
+                "x": 1963,
+                "y": 1335
             }
         },
         "tilesets/Orbz/bubbles.tsx": {
             "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/WA_Special_Zones.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -84,7 +88,7 @@
         }
     },
     "frame.defaultDuration": 220,
-    "last.exportedFilePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues",
+    "last.exportedFilePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/maps",
     "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/tilesets",
     "map.height": 220,
     "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
@@ -92,11 +96,13 @@
     "map.width": 250,
     "openFiles": [
         "g36771.tsx",
-        "republique.tmx"
+        "republique.tmx",
+        "tilesets/WA_Special_Zones.tsx"
     ],
     "project": "sans titre.tiled-project",
     "recentFiles": [
         "g36771.tsx",
+        "tilesets/WA_Special_Zones.tsx",
         "republique.tmx",
         "tilesets/anim.tsx",
         "tilesets/roads.tsx",

@@ -1,0 +1,303 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/Blocs spéciaux.tsx",
+    "expandedProjectPaths": [
+        "tilesets",
+        ".",
+        "maps"
+    ],
+    "fileStates": {
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json": {
+            "scale": 0.44351325757575755,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 654.9973310558343,
+                "y": 1092.4137931034484
+            }
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#LimeZu_MI_Anim_Arrow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#LimeZu_MI_Hospital": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#Sev_Map": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#Sev_Metro": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#Sev_Props": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/map.json#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1834,
+                "y": -372.5
+            }
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Anim_Arrow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Basement": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Bedroom": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Classroom_Library": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Condominium": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Conference_Hall": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Generic": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Grocery_Store": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Gym": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Hospital": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Jail": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Kitchen": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_LivingRoom": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Museum": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Music_Sport": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_TV_Film_Studio": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MI_Visibile_Upstairs_System": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MO": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#LimeZu_MUI_Style_2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/uni-rennes2D/maps/rennes2-hall.json#Wordings": {
+            "scaleInDock": 1
+        },
+        "VillejeanOK.json": {
+            "scale": 0.18828828828828828,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2586.4593301435407,
+                "y": 2424.4736842105262
+            }
+        },
+        "VillejeanOK.json#Villejean": {
+            "scaleInDock": 1
+        },
+        "VillejeanOK.json#roads": {
+            "scaleInDock": 1
+        },
+        "VillejeanOK.tmx": {
+            "scale": 0.18828828828828828,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2589.1148325358854,
+                "y": 2424.4736842105262
+            }
+        },
+        "base.json": {
+            "scale": 1.011290322580645,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.88995215311013,
+                "y": 336.6985645933014
+            }
+        },
+        "base.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "base.json#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.7703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 593.2657200811358,
+                "y": 608.1947261663286
+            }
+        },
+        "map.json#plan": {
+            "scaleInDock": 1
+        },
+        "map.json#roads": {
+            "scaleInDock": 1
+        },
+        "maps/Blocs spéciaux.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/villejeanOK2.tmx": {
+            "scale": 1.045,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 458.85167464114835,
+                "y": 350.7177033492823
+            }
+        },
+        "republique.tmj": {
+            "scale": 0.21814159292035395,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1471.5212981744423,
+                "y": 1606.7545638945235
+            }
+        },
+        "republique.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "republique.tmj#republique": {
+            "scaleInDock": 1
+        },
+        "republique.tmj#roads": {
+            "scaleInDock": 1
+        },
+        "republique.tmx": {
+            "scale": 0.2168287037037037,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1579.587915020818,
+                "y": 1611.8714636489808
+            }
+        },
+        "tilesets/Villejean.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/WA_User_Interface.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/fond.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/fond2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "tilesets/republique.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/roads.tsx": {
+            "scaleInDock": 1
+        },
+        "villejean.json": {
+            "scale": 0.7703125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 593.2657200811358,
+                "y": 608.1947261663286
+            }
+        },
+        "villejean.json#plan": {
+            "scaleInDock": 1
+        },
+        "villejean.json#roads": {
+            "scaleInDock": 1
+        },
+        "villejean.tmx": {
+            "scale": 0.6499155405405405,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 593.1539961013646,
+                "y": 608.5406107862249
+            }
+        },
+        "villejean.tmx#plan": {
+            "scaleInDock": 1
+        },
+        "villejean.tmx#roads": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/tilesets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "maps/villejeanOK2.tmx",
+        "tilesets/fond2.tsx",
+        "maps/Blocs spéciaux.tsx"
+    ],
+    "project": "testWA.tiled-project",
+    "recentFiles": [
+        "maps/villejeanOK2.tmx",
+        "tilesets/fond2.tsx",
+        "maps/Blocs spéciaux.tsx",
+        "villejean.json",
+        "VillejeanOK.json",
+        "republique.tmx",
+        "VillejeanOK.tmx",
+        "tilesets/fond.tsx",
+        "map.json",
+        "base.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
